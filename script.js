@@ -35,33 +35,3 @@ const universes = [
     units: []
   }
 ];
-const timeUnits = [
-  {
-    id: "astrosecond",
-    name: "astrosecond",
-    earthEquivalent: null,
-    source: "",
-    note: "待確認"
-  },
-  {
-    id: "breem",
-    name: "breem",
-    earthEquivalent: null,
-    source: "",
-    note: "待確認"
-  },
-  {
-    id: "cycle",
-    name: "cycle",
-    earthEquivalent: null,
-    source: "",
-    note: "待確認"
-  },
-  {
-    id: "stellarCycle",
-    name: "stellar cycle",
-    earthEquivalent: null,
-    source: "",
-    note: "待確認"
-  }
-];
